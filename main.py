@@ -1,4 +1,4 @@
-print("for exit of while, enter <exit> in input")
+print("for exit of loop, enter <exit> in input")
 list_search=[]
 while True:
     text = input("Pls Enter : ")
